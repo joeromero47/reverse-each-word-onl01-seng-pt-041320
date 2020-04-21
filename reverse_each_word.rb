@@ -1,3 +1,6 @@
 def reverse_each_word("Hello there, and how are you?")
   list_array = []
-  list_array = reverse_each_word.split
+  list_array = reverse_each_word.split('')
+end
+  list_array.inspect
+end
