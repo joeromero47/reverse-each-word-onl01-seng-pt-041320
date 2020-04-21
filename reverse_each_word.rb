@@ -2,5 +2,5 @@ def reverse_each_word("Hello there, and how are you?")
   list_array = []
   list_array = reverse_each_word.split('')
 end
-  list_array.inspect
+  puts list_array
 end
